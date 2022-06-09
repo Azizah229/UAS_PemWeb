@@ -1,0 +1,58 @@
+.banner4 {
+    background: url("https://i.pinimg.com/564x/ab/bd/71/abbd71caee3bb501dffe7dfa4a991c2c.jpg")
+        no-repeat center center;
+    background-size: cover;
+}
+
+.banner3 {
+    background: url("https://i.pinimg.com/564x/ab/bd/71/abbd71caee3bb501dffe7dfa4a991c2c.jpg")
+        no-repeat center center;
+    background-size: cover;
+}
+
+.banner {
+    background: url("https://i.pinimg.com/736x/57/23/f6/5723f6b6069bb0a7631f57030a56896a.jpg") 
+        no-repeat center center;
+    background-size: cover;
+    padding-top: 21%;
+    padding-bottom: 21%;
+    color: rgb(14, 14, 109);
+}
+
+.banner h4 {
+    padding-bottom: 3%;
+    font-family: 'Times New Roman';
+    font-size: 80px;
+    text-shadow: 3px 2px 5px black;
+    color: rgb(255, 255, 255);
+}
+
+.collapse {
+    font-family: 'Bookman Old Style';
+    font-size: 20px;
+    text-shadow: 3px 2px 5px black;
+    color: white;
+}
+
+.banner1 {
+    background-color: rgb(200, 149, 96);
+    background-size: cover;
+    font-family: 'Bookman Old Style';
+    padding-top: 5%;
+    padding-bottom: 5%;
+    color: rgb(255, 255, 255);
+}
+
+.card-title {
+    font-size: 25px;
+    font-family: 'Britannic';
+}
+
+.banner2 {
+    font-family: Amtera;
+    background: fixed;
+    background-size: cover;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    color: rgb(255, 255, 255);
+}
